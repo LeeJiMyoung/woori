@@ -22,7 +22,7 @@ String name="홍길동";
 이름은:<%=name %> <br>
 /Test 에서 보낸 메시지 입니다. : <%request.getAttribute("page"); %>
 
-수정해봅니다.
+수정해봅니다.22222222
 
 </body>
 </html>
